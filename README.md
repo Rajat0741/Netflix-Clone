@@ -1,6 +1,6 @@
 # Netflix Clone
 
-A simple Netflix interface clone created using only HTML and CSS.
+A simple Netflix UI clone created using only HTML and CSS.
 
 ## Overview
 
